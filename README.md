@@ -1,4 +1,4 @@
-# csr-paper-site
+# KZ_Migration_CSR
 
 * **Region & Context:** Akmola, Kazakhstan – major agricultural producer facing significant rural-urban migration.
 * **Data:** 2010–2021, 8 districts, covering socioeconomic, infrastructure, and CSR indicators.
